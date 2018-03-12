@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		5462589E20562F1F0073639D /* Plane.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5462589D20562F1F0073639D /* Plane.swift */; };
+		546258A0205646B70073639D /* tron_grid.png in Resources */ = {isa = PBXBuildFile; fileRef = 5462589F205646B60073639D /* tron_grid.png */; };
 		54B86CF92055BF11009ED503 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54B86CF82055BF11009ED503 /* AppDelegate.swift */; };
 		54B86CFB2055BF11009ED503 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 54B86CFA2055BF11009ED503 /* art.scnassets */; };
 		54B86CFD2055BF11009ED503 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54B86CFC2055BF11009ED503 /* ViewController.swift */; };
@@ -37,6 +38,7 @@
 
 /* Begin PBXFileReference section */
 		5462589D20562F1F0073639D /* Plane.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Plane.swift; sourceTree = "<group>"; };
+		5462589F205646B60073639D /* tron_grid.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tron_grid.png; sourceTree = "<group>"; };
 		54B86CF52055BF11009ED503 /* h3ml-object.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "h3ml-object.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		54B86CF82055BF11009ED503 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		54B86CFA2055BF11009ED503 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 		54B86CF72055BF11009ED503 /* h3ml-object */ = {
 			isa = PBXGroup;
 			children = (
+				5462589F205646B60073639D /* tron_grid.png */,
 				54B86CF82055BF11009ED503 /* AppDelegate.swift */,
 				54B86CFA2055BF11009ED503 /* art.scnassets */,
 				54B86CFC2055BF11009ED503 /* ViewController.swift */,
@@ -242,6 +245,7 @@
 				54B86D052055BF11009ED503 /* LaunchScreen.storyboard in Resources */,
 				54B86D022055BF11009ED503 /* Assets.xcassets in Resources */,
 				54B86D002055BF11009ED503 /* Main.storyboard in Resources */,
+				546258A0205646B70073639D /* tron_grid.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
