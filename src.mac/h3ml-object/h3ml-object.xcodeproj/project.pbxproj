@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5462589E20562F1F0073639D /* Plane.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5462589D20562F1F0073639D /* Plane.swift */; };
 		54B86CF92055BF11009ED503 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54B86CF82055BF11009ED503 /* AppDelegate.swift */; };
 		54B86CFB2055BF11009ED503 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 54B86CFA2055BF11009ED503 /* art.scnassets */; };
 		54B86CFD2055BF11009ED503 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54B86CFC2055BF11009ED503 /* ViewController.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5462589D20562F1F0073639D /* Plane.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Plane.swift; sourceTree = "<group>"; };
 		54B86CF52055BF11009ED503 /* h3ml-object.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "h3ml-object.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		54B86CF82055BF11009ED503 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		54B86CFA2055BF11009ED503 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				54B86D012055BF11009ED503 /* Assets.xcassets */,
 				54B86D032055BF11009ED503 /* LaunchScreen.storyboard */,
 				54B86D062055BF11009ED503 /* Info.plist */,
+				5462589D20562F1F0073639D /* Plane.swift */,
 			);
 			path = "h3ml-object";
 			sourceTree = "<group>";
@@ -264,6 +267,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				54B86CFD2055BF11009ED503 /* ViewController.swift in Sources */,
+				5462589E20562F1F0073639D /* Plane.swift in Sources */,
 				54B86CF92055BF11009ED503 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
